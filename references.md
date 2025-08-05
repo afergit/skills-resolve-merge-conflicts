@@ -1,4 +1,0 @@
-========
-<message / inbox>
-........
-new example
